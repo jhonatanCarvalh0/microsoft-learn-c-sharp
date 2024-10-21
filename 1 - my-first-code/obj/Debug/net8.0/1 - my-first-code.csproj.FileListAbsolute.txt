@@ -1,0 +1,15 @@
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\bin\Debug\net8.0\1 - my-first-code.exe
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\bin\Debug\net8.0\1 - my-first-code.deps.json
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\bin\Debug\net8.0\1 - my-first-code.runtimeconfig.json
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\bin\Debug\net8.0\1 - my-first-code.dll
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\bin\Debug\net8.0\1 - my-first-code.pdb
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\obj\Debug\net8.0\1 - my-first-code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\obj\Debug\net8.0\1 - my-first-code.AssemblyInfoInputs.cache
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\obj\Debug\net8.0\1 - my-first-code.AssemblyInfo.cs
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\obj\Debug\net8.0\1 - my-first-code.csproj.CoreCompileInputs.cache
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\obj\Debug\net8.0\1 - my-first-code.sourcelink.json
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\obj\Debug\net8.0\1 - my-first-code.dll
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\obj\Debug\net8.0\refint\1 - my-first-code.dll
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\obj\Debug\net8.0\1 - my-first-code.pdb
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\obj\Debug\net8.0\1 - my-first-code.genruntimeconfig.cache
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\1 - my-first-code\obj\Debug\net8.0\ref\1 - my-first-code.dll
