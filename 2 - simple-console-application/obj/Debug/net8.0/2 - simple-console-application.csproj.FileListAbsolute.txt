@@ -1,0 +1,15 @@
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\bin\Debug\net8.0\2 - simple-console-application.exe
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\bin\Debug\net8.0\2 - simple-console-application.deps.json
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\bin\Debug\net8.0\2 - simple-console-application.runtimeconfig.json
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\bin\Debug\net8.0\2 - simple-console-application.dll
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\bin\Debug\net8.0\2 - simple-console-application.pdb
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\obj\Debug\net8.0\2 - simple-console-application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\obj\Debug\net8.0\2 - simple-console-application.AssemblyInfoInputs.cache
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\obj\Debug\net8.0\2 - simple-console-application.AssemblyInfo.cs
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\obj\Debug\net8.0\2 - simple-console-application.csproj.CoreCompileInputs.cache
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\obj\Debug\net8.0\2 - simple-console-application.sourcelink.json
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\obj\Debug\net8.0\2 - simple-console-application.dll
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\obj\Debug\net8.0\refint\2 - simple-console-application.dll
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\obj\Debug\net8.0\2 - simple-console-application.pdb
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\obj\Debug\net8.0\2 - simple-console-application.genruntimeconfig.cache
+c:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\2 - simple-console-application\obj\Debug\net8.0\ref\2 - simple-console-application.dll
