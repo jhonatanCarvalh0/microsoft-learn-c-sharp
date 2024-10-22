@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\2 - simple-console-application\\2 - simple-console-application.csproj": {}
+    "c:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\2 - simple-console-application\\2 - simple-console-application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\2 - simple-console-application\\2 - simple-console-application.csproj": {
+    "c:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\2 - simple-console-application\\2 - simple-console-application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\2 - simple-console-application\\2 - simple-console-application.csproj",
+        "projectUniqueName": "c:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\2 - simple-console-application\\2 - simple-console-application.csproj",
         "projectName": "2 - simple-console-application",
-        "projectPath": "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\2 - simple-console-application\\2 - simple-console-application.csproj",
+        "projectPath": "c:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\2 - simple-console-application\\2 - simple-console-application.csproj",
         "packagesPath": "C:\\Users\\01711924270\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\2 - simple-console-application\\obj\\",
+        "outputPath": "c:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\2 - simple-console-application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\01711924270\\AppData\\Roaming\\NuGet\\NuGet.Config"
