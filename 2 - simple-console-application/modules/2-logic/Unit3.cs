@@ -1,6 +1,6 @@
 using System;
 
-public class Modulo3
+public class Unit3
 {
   public static void Execute()
   {
