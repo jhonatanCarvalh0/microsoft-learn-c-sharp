@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\3 - logic.csproj": {}
+    "c:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\3 - logic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\3 - logic.csproj": {
+    "c:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\3 - logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\3 - logic.csproj",
+        "projectUniqueName": "c:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\3 - logic.csproj",
         "projectName": "3 - logic",
-        "projectPath": "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\3 - logic.csproj",
+        "projectPath": "c:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\3 - logic.csproj",
         "packagesPath": "C:\\Users\\01711924270\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\obj\\",
+        "outputPath": "c:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\01711924270\\AppData\\Roaming\\NuGet\\NuGet.Config"
