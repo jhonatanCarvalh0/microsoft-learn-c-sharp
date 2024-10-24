@@ -1,0 +1,15 @@
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\bin\Debug\net8.0\3 - logic.exe
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\bin\Debug\net8.0\3 - logic.deps.json
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\bin\Debug\net8.0\3 - logic.runtimeconfig.json
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\bin\Debug\net8.0\3 - logic.dll
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\bin\Debug\net8.0\3 - logic.pdb
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\obj\Debug\net8.0\3 - logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\obj\Debug\net8.0\3 - logic.AssemblyInfoInputs.cache
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\obj\Debug\net8.0\3 - logic.AssemblyInfo.cs
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\obj\Debug\net8.0\3 - logic.csproj.CoreCompileInputs.cache
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\obj\Debug\net8.0\3 - logic.sourcelink.json
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\obj\Debug\net8.0\3 - logic.dll
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\obj\Debug\net8.0\refint\3 - logic.dll
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\obj\Debug\net8.0\3 - logic.pdb
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\obj\Debug\net8.0\3 - logic.genruntimeconfig.cache
+C:\Users\01711924270\Documents\GitHub\Jhonatan\microsoft-learn-c-sharp\3 - logic\obj\Debug\net8.0\ref\3 - logic.dll
