@@ -1,6 +1,11 @@
 using System;
 
-class Unit11
+/*
+    Console.WriteLine("Student\t\tExam Score\tOverall Grade\tExtra Credit\n");
+    Console.WriteLine($"{"StudentName"}\t\t{"0"}\t\t{"95.8"}\t{"A"}\t{"0"} ({5} pts)");
+*/
+
+class Unit12
 {
   public static void Execute()
   {
@@ -29,38 +34,44 @@ class Unit11
     foreach (var student in students)
     {
       int scoreSum = 0;
+      int extraCredit = 0;
       int gradeAssignments = 0;
+      int extraGradeAssigments = 0;
       foreach (var grade in student.Value)
       {
         gradeAssignments++;
+
         if (gradeAssignments <= examAssignments)
           // add the exam score to the sum
           scoreSum += grade;
         else
-          // add the extra credit points to the sum - bonus points equal to 10% of an exam score
-          scoreSum += grade / 10;
+        {
+          extraGradeAssigments++;
+          extraCredit += grade;
+        }
       }
       decimal studentScore = (decimal)scoreSum / examAssignments;
-      getGrade(student.Key, studentScore, gradeMap);
+      getGrade(student.Key, studentScore, extraCredit, examAssignments, extraGradeAssigments, gradeMap);
     }
 
   }
 
-  public static void getGrade(string student, decimal score, Dictionary<decimal, string> gradeMap)
+  public static void getGrade(string studentName, decimal examScore, int extraCredit, int examsQuantity, int extraExamsQuantity, Dictionary<decimal, string> gradeMap)
   {
-
+    decimal extraPoints = ((decimal)extraCredit / 10) / examsQuantity;
+    extraCredit /= extraExamsQuantity;
     string grade = "F";
 
     foreach (var keyValuePair in gradeMap)
     {
-      if (score >= keyValuePair.Key)
+      if ((examScore+extraPoints) >= keyValuePair.Key)
       {
         grade = keyValuePair.Value; // retorna a grade (value) da primeira nota (key) que passar na condição;
         break;
       }
     }
 
-    Console.WriteLine($"{student}:\t\t{score}\t{grade}");
+    Console.WriteLine($"{studentName}\t\t{examScore}\t\t{examScore + extraPoints}\t{grade}\t{extraCredit} ({extraPoints} pts)");
 
   }
 }
