@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\01711924270\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\3 - logic.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\jhonatanCarvalh0\\microsoft-learn-c-sharp\\3 - logic\\3 - logic.csproj",
       "projectName": "3 - logic",
-      "projectPath": "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\3 - logic.csproj",
-      "packagesPath": "C:\\Users\\01711924270\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\01711924270\\Documents\\GitHub\\Jhonatan\\microsoft-learn-c-sharp\\3 - logic\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\jhonatanCarvalh0\\microsoft-learn-c-sharp\\3 - logic\\3 - logic.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\jhonatanCarvalh0\\microsoft-learn-c-sharp\\3 - logic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\01711924270\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
